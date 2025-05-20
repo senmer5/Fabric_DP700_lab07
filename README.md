@@ -1,5 +1,3 @@
-# Fabric_DP700_lab07
-
 # 📊  Real-Time Intelligence with Microsoft Fabric – Stock Market Example
 
 ## 🎯 Objective
